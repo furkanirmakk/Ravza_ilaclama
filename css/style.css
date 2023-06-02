@@ -16,6 +16,36 @@ body {
     background-color: #fff;
 }
 
+#onlyJSyc {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    border: none;
+    outline: none;
+    
+    cursor: pointer;
+    padding: 0px;
+    width: 40px;
+    height: 40px;
+}
+#onlyJSyc2 {
+    display: none;
+    position: fixed;
+    bottom: 70px;
+    right: 20px;
+    z-index: 9999;
+    border: none;
+    outline: none;
+    
+    cursor: pointer;
+    padding: 0px;
+    width: 40px;
+    height: 40px;
+}
+
+
 a {
     text-decoration: none;
 
